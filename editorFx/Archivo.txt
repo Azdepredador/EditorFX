@@ -1,0 +1,6 @@
+programa Inicio
+var
+Prueba : entero ;
+Prueba2 : entero ;
+inicio
+fin.

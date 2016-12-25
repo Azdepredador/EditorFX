@@ -1,0 +1,4 @@
+libreria <Libreria.p> ;
+programa Libreria
+inicio
+fin.
